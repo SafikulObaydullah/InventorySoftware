@@ -1,0 +1,12 @@
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\bin\Debug\net7.0\Inventory.Common.deps.json
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\bin\Debug\net7.0\Inventory.Common.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\bin\Debug\net7.0\Inventory.Common.pdb
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.csproj.AssemblyReference.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.AssemblyInfoInputs.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.AssemblyInfo.cs
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.csproj.CoreCompileInputs.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\refint\Inventory.Common.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\Inventory.Common.pdb
+C:\Project\Layout\LayoutOfInventory\Inventory.Common\obj\Debug\net7.0\ref\Inventory.Common.dll

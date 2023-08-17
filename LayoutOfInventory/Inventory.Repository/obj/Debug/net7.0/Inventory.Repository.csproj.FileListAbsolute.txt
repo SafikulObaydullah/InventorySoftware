@@ -1,0 +1,15 @@
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.csproj.AssemblyReference.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.AssemblyInfoInputs.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.AssemblyInfo.cs
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.csproj.CoreCompileInputs.cache
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\bin\Debug\net7.0\Inventory.Repository.deps.json
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\bin\Debug\net7.0\Inventory.Repository.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\bin\Debug\net7.0\Inventory.Repository.pdb
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\bin\Debug\net7.0\Inventory.Domain.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\bin\Debug\net7.0\Inventory.Domain.pdb
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.csproj.CopyComplete
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\refint\Inventory.Repository.dll
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\Inventory.Repository.pdb
+C:\Project\Layout\LayoutOfInventory\Inventory.Repository\obj\Debug\net7.0\ref\Inventory.Repository.dll
